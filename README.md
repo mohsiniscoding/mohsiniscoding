@@ -35,16 +35,6 @@ Here’s a snapshot of my key skills:
 - Fiverr: [Hire me on Fiverr](https://fiverr.com/mohsin_rizz)
 - Email: [Get in Touch](mailto:contact@mohsin.io)
 
-### 📊 GitHub Stats
-
-![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsiniscoding&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohsiniscoding&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsiniscoding&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or would like to collaborate!
 
 🌟 **Remember to star the repos you find useful!**
